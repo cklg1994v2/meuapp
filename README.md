@@ -1,2 +1,2 @@
 # meuapp
- projetinh em angular
+ projetinho em angular
