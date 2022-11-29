@@ -1,0 +1,22 @@
+{
+    "pensamentos": [
+        {
+            "id": 1,
+            "conteudo": "Curso de Angular",
+            "autoria": "Caio",
+            "modelo": "modelo1"
+        },
+        {
+            "id": 1,
+            "conteudo": "Estudando angular",
+            "autoria": "Caio",
+            "modelo": "modelo2"
+        },
+        {
+            "id": 1,
+            "conteudo": "Projeto Angular",
+            "autoria": "Caio",
+            "modelo": "modelo3"
+        }
+    ]
+}
